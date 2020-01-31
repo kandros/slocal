@@ -1,0 +1,14 @@
+{
+  "name": "slocal",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "jaga santagostino <jagasantagostino@gmail.com> (https://jagasantagostino.com)",
+  "license": "MIT",
+  "bin": {
+    "slocal": "./cli.js"
+  },
+  "dependencies": {
+    "enquirer": "^2.3.4",
+    "yaml": "^1.7.2"
+  }
+}
